@@ -1,12 +1,10 @@
 ﻿# Blog Yazılarım
 
-![markus-winkler-_nvKjg0aliA-unsplash](markus-winkler-_nvKjg0aliA-unsplash.jpg)
+![buraksenyurtcom.png](buraksenyurtcom.png)
 
-Photo by <a href="https://unsplash.com/@markuswinkler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Winkler</a> on <a href="https://unsplash.com/s/photos/article?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
 Blog tutmaya 2003 yılında başladım. Önceleri bsenyurt.com olan alan adım sonrasında buraksenyurt.com olarak değişti. 2021 yılı başlarına kadar elimden geldiğince blogumu canlı tutmaya ve öğrendiklerimi yazarak paylaşmaya gayret ettim. Blogumdaki ilk yazımdan son yazıma doğru her gelişimde zamanın ne kadar çabuk geçtiğini, kullandığımız programlama dili ve Framework'lerin nasıl da hızla evrimleştiğini görüyorum. Gerçekten de yetişilmesi zor ve hatta imkansız bir alan seçmiş olduğumu daha net anlıyorum. 
 
-Bu repo'daki amacım blogumdaki yazıları yıl bazında tek bir indirilebilir PDF dosyası olarak paylaşmak. Blogumu ilk açtığımda altyapısını kendim yazmıştım. .Net Framework kullanarak geliştirdiğim bir siteydi. Ne yazık ki o günlere ait bir ekran görüntüsü tutmamışım. [WebArchive.Org](https://web.archive.org/web/*/buraksenyurt.com) sistesi de ilk 2009 itibariyle ekran görüntüsü almış. Neyse. Zaman içinde yönetiminin zor olması nedeniyle alternatif ve hazır blog yapılarına geçmeye karar verdim ve BlogEngine.Net çatısını seçtim. 
+Bu repo'daki amacım blogumdaki yazıları yıl bazında tek bir indirilebilir PDF dosyası olarak paylaşmak. Blogumu ilk açtığımda altyapısını kendim yazmıştım. .Net Framework kullanarak geliştirdiğim bir siteydi. Ne yazık ki o günlere ait bir ekran görüntüsü tutmamışım(derken bir tane buldum) [WebArchive.Org](https://web.archive.org/web/*/buraksenyurt.com) sistesi de ilk 2009 itibariyle ekran görüntüsü almış. Neyse. Zaman içinde yönetiminin zor olması nedeniyle alternatif ve hazır blog yapılarına geçmeye karar verdim ve BlogEngine.Net çatısını seçtim. 
 
 Blogun amacı sadece metinsel içerik barındırmak olduğundan BlogEngine.Net'i en ilkel ve varsayılan haliyle kullandım. Tüm içerin XML dokümanları olarak saklandı. Ge.enlerde bu XML içeriği okuyup HTML haline dönüştüren bir kod parçası yazdım. Yıl bazlı ayrıştırdığım HTML içeriklerini ise üstünden üstünkörü bir bakışla geçerek PDF haline dönüştürmekteyim. İçerikler dönüştürüldükçe burada paylaşmayı planlıyorum. Böylece yazıları çevrimdışı olarak da takip etme şansınız olabilir.
 
@@ -23,7 +21,7 @@ ___Hatırlatayım ki, XML içeriklerini tarayıp HTML üreten kod bazı noktalar
 - 2012 - Hazır - 7.72 Mb, 398 Sayfa
 - 2011 - Hazır - 8.42 Mb, 402 Sayfa
 - 2010 - Hazır - 7.55 Mb, 470 Sayfa
-- 2009
+- 2009 - Hazır - 12.9 Mb, 964 Sayfa
 - 2008
 - 2007
 - 2006

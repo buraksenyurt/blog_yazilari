@@ -9,7 +9,7 @@ Blogun amacı sadece metinsel içerik barındırmak olduğundan BlogEngine.Net'i
 ___Hatırlatayım ki, XML içeriklerini tarayıp HTML üreten kod bazı noktalarda hatalara sebebiyet vermiş olabilir. Kırık linkler, yeri biraz kaymış veya sığmayan ekran görüntüleri, çalışmaması doğal Flash veya Silverlight içerikleri vb olabilir. Elimden geldiğince bu kısımları manuel operasyonlarla gidermeye çalışıyorum.___
 
 - 2020 - Hazır
-- 2019
+- 2019 - Hazır
 - 2018
 - 2017
 - 2016
@@ -24,5 +24,5 @@ ___Hatırlatayım ki, XML içeriklerini tarayıp HTML üreten kod bazı noktalar
 - 2007
 - 2006
 - 2005
-- 2004
-- 2003
+- 2004 - Hazır
+- 2003 - Hazır

@@ -16,8 +16,8 @@ ___Hatırlatayım ki, XML içeriklerini tarayıp HTML üreten kod bazı noktalar
 - 2019 - Hazır - 17.5 Mb, 549 Sayfa
 - 2018 - Hazır - 9.80 Mb, 494 Sayfa
 - 2017 - Hazır - 6.75 Mb, 415 Sayfa
-- 2016
-- 2015
+- 2016 - Hazır - 5.25 Mb, 263 Sayfa
+- 2015 - Hazır - 4.30 Mb, 206 Sayfa
 - 2014
 - 2013
 - 2012
@@ -28,5 +28,5 @@ ___Hatırlatayım ki, XML içeriklerini tarayıp HTML üreten kod bazı noktalar
 - 2007
 - 2006
 - 2005
-- 2004 - Hazır
-- 2003 - Hazır
+- 2004 - Hazır - 6.03 Mb, 625 Sayfa
+- 2003 - Hazır - 2.50 Mb, 196 Sayfa

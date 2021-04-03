@@ -10,7 +10,7 @@ Bu repo'daki amacım blogumdaki yazıları yıl bazında tek bir indirilebilir P
 
 Blogun amacı sadece metinsel içerik barındırmak olduğundan BlogEngine.Net'i en ilkel ve varsayılan haliyle kullandım. Tüm içerin XML dokümanları olarak saklandı. Ge.enlerde bu XML içeriği okuyup HTML haline dönüştüren bir kod parçası yazdım. Yıl bazlı ayrıştırdığım HTML içeriklerini ise üstünden üstünkörü bir bakışla geçerek PDF haline dönüştürmekteyim. İçerikler dönüştürüldükçe burada paylaşmayı planlıyorum. Böylece yazıları çevrimdışı olarak da takip etme şansınız olabilir.
 
-___Hatırlatayım ki, XML içeriklerini tarayıp HTML üreten kod bazı noktalarda hatalara sebebiyet vermiş olabilir. Kırık linkler, yeri biraz kaymış veya sığmayan ekran görüntüleri, çalışmaması doğal Flash veya Silverlight içerikleri vb olabilir. Elimden geldiğince bu kısımları manuel operasyonlarla gidermeye çalışıyorum.___
+___Hatırlatayım ki, XML içeriklerini tarayıp HTML üreten kod bazı noktalarda hatalara sebebiyet vermiş olabilir. Kırık linkler, yeri biraz kaymış veya sığmayan ekran görüntüleri, çalışmaması doğal Flash veya Silverlight içerikleri, fazladan boş kalmış sayfalar vb olabilir. Elimden geldiğince bu kısımları manuel operasyonlarla gidermeye çalışıyorum ama gözlerimi epey yorduğunu söyleyebilirim. Bu nedenle her ne kusur varsa affola...___
 
 - 2020 - Hazır - 13.6 Mb, 413 Sayfa
 - 2019 - Hazır - 17.5 Mb, 549 Sayfa
@@ -21,7 +21,7 @@ ___Hatırlatayım ki, XML içeriklerini tarayıp HTML üreten kod bazı noktalar
 - 2014 - Hazır - 5.17 Mb, 297 Sayfa
 - 2013 - Hazır - 10.4 Mb, 576 Sayfa
 - 2012 - Hazır - 7.72 Mb, 398 Sayfa
-- 2011
+- 2011 - Hazır - 
 - 2010
 - 2009
 - 2008

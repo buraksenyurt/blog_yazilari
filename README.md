@@ -12,10 +12,10 @@ Blogun amacı sadece metinsel içerik barındırmak olduğundan BlogEngine.Net'i
 
 ___Hatırlatayım ki, XML içeriklerini tarayıp HTML üreten kod bazı noktalarda hatalara sebebiyet vermiş olabilir. Kırık linkler, yeri biraz kaymış veya sığmayan ekran görüntüleri, çalışmaması doğal Flash veya Silverlight içerikleri vb olabilir. Elimden geldiğince bu kısımları manuel operasyonlarla gidermeye çalışıyorum.___
 
-- 2020 - Hazır
-- 2019 - Hazır
-- 2018 - Hazır
-- 2017
+- 2020 - Hazır - 13.6 Mb, 413 Sayfa
+- 2019 - Hazır - 17.5 Mb, 549 Sayfa
+- 2018 - Hazır - 9.80 Mb, 494 Sayfa
+- 2017 - Hazır - 6.75 Mb, 415 Sayfa
 - 2016
 - 2015
 - 2014
